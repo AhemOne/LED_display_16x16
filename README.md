@@ -62,13 +62,8 @@ Wire | Colour | Pin
 
 
 ## Enclosure
-Part | Quantity | Image
--|-|-
-Wood block, 2x | ![Arduino Leonardo](Arduino.jpg)
-USB Cable for above | 1 | ![Arduino Leonardo](USBCable.jpg)
-16x16 LED Display module | 1 | ![LED Display](16x16Display.jpg)
-Socket to Socket jumper leads | 4 | ![Socket to Socket jumper lead](SSJumper.jpg)
-Pin to Socket jumper leads | 5 | ![Pin to Socket jumper lead](SPJumper.jpg)
+
+![Enclosure](images/Enclosure.jpg)
 
 ### Case
 
@@ -85,16 +80,3 @@ Pin to Socket jumper leads | 5 | ![Pin to Socket jumper lead](SPJumper.jpg)
 #### Engineering Drawings
 ![ScreenDrawing](images/ScreenDrawing.jpg)
 ![ScreenDrawing](images/ScreenDrawingUS.jpg)
-
-## Assembly
-
-### Tools
-
-Tool | Image
--|-|-
- | ![Arduino Leonardo](Arduino.jpg)
-USB Cable for above | 1 | ![Arduino Leonardo](USBCable.jpg)
-16x16 LED Display module | 1 | ![LED Display](16x16Display.jpg)
-Socket to Socket jumper leads | 4 | ![Socket to Socket jumper lead](SSJumper.jpg)
-Pin to Socket jumper leads | 5 | ![Pin to Socket jumper lead](SPJumper.jpg)
-
