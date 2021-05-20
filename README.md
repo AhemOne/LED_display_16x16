@@ -24,6 +24,13 @@ USB Cable for above | 1 | ![Arduino Leonardo](USBCable.jpg)
 Socket to Socket jumper leads | 4 | ![Socket to Socket jumper lead](SSJumper.jpg)
 Pin to Socket jumper leads | 5 | ![Pin to Socket jumper lead](SPJumper.jpg)
 
+### Useful Datasheets
+
+Part | Description | Link
+-|-|-
+74HC595 | 8-Bit Shift RegistersWith3-StateOutput Registers | https://www.ti.com/lit/ds/scls041i/scls041i.pdf
+74HC138 | High-Speed CMOS Logic 3-to-8 Line Decoder/ Demultiplexer | https://www.ti.com/lit/ds/schs147i/schs147i.pdf
+ATmega16U4 | 8-bit Microcontroller with 16/32K bytes of ISP Flash and USB Controller | https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
 
 ## Wiring
 
